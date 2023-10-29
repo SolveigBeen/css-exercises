@@ -5,12 +5,14 @@ body {
 
 .card {
   width: 400px;
-  background: #fff;
+  background: #2b1515;
   margin: 16px auto;
+  
 }
 
 .title {
   background: #e3f4ff;
+  
 }
 
 .content {
